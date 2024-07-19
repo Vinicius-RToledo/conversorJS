@@ -1,4 +1,4 @@
-Olá, depois deum tmepo sem trabalhar com JavaScript decidi voltar com um projeto simples para poder me familiarizar novamente com a linguagem.
+Olá, depois de um tempo sem trabalhar com JavaScript decidi voltar com um projeto simples para poder me familiarizar novamente com a linguagem.
 Aqui está um projeto onde é possível fazer a conversão da moeda do Real brasileiro em outras 3 moedas, são elas: Dólar, Euro e Peso Argentino.
 No dia atual (19/07/2024) os valores das moedas são de:
 - Dólar R$5,57
