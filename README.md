@@ -4,5 +4,6 @@ No dia atual (19/07/2024) os valores das moedas são de:
 - Dólar R$5,57
 - Euro R$6,07
 - Peso Argentino R$165,74
+
 Com estes valores, foi possível realizar o cálculo das conversões, quando houver mudanças no valor das moedas, basta atualizar os valores dentro da função "converter()"
 no documento "script.js"
